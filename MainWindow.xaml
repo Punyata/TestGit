@@ -13,6 +13,7 @@
         <TextBox HorizontalAlignment="Left" Height="32" Margin="277,163,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="199"/>
         <Label Content="Last Name:" HorizontalAlignment="Left" Margin="140,163,0,0" VerticalAlignment="Top" Width="132" FontFamily="Leelawadee UI" FontSize="18"/>
         <Label Content="Application Form" HorizontalAlignment="Left" Margin="35,26,0,0" VerticalAlignment="Top" Width="290" FontFamily="Leelawadee UI" FontSize="18"/>
+        <Image HorizontalAlignment="Left" Height="65" Margin="55,270,0,0" VerticalAlignment="Top" Width="100" Source="https://cdn.pixabay.com/photo/2017/03/27/21/31/money-2180330_960_720.jpg"/>
 
     </Grid>
 </Window>
