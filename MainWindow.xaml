@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelloWorldGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Application" Height="450" Width="800">
     <Grid>
         <Button Content="Submit" HorizontalAlignment="Left" Margin="323,209,0,0" VerticalAlignment="Top" Width="80" Height="28"/>
         <TextBox HorizontalAlignment="Left" Height="33" Margin="277,125,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="199" TextChanged="TextBox_TextChanged"/>
