@@ -7,11 +7,12 @@
         mc:Ignorable="d"
         Title="Application" Height="450" Width="800">
     <Grid>
-        <Button Content="Submit" HorizontalAlignment="Left" Margin="323,209,0,0" VerticalAlignment="Top" Width="80" Height="28"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="325,242,0,0" VerticalAlignment="Top" Width="80" Height="28"/>
         <TextBox HorizontalAlignment="Left" Height="33" Margin="277,125,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="199" TextChanged="TextBox_TextChanged"/>
         <Label Content="Name :" HorizontalAlignment="Left" Margin="145,132,0,0" VerticalAlignment="Top" Width="127" FontFamily="Leelawadee" FontSize="18"/>
         <TextBox HorizontalAlignment="Left" Height="32" Margin="277,163,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="199"/>
         <Label Content="Last Name:" HorizontalAlignment="Left" Margin="140,163,0,0" VerticalAlignment="Top" Width="132" FontFamily="Leelawadee UI" FontSize="18"/>
+        <Label Content="Application Form" HorizontalAlignment="Left" Margin="35,26,0,0" VerticalAlignment="Top" Width="290" FontFamily="Leelawadee UI" FontSize="18"/>
 
     </Grid>
 </Window>
